@@ -1,2 +1,2 @@
-# my-website
+# Website
 Repository for my website
